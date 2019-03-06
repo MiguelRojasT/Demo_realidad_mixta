@@ -1,0 +1,344 @@
+fileFormatVersion: 2
+guid: bc766f4bbd016bf4097ccbafd78bcb12
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: alights.000
+    100002: alights.001
+    100004: alights.014
+    100006: alights.015
+    100008: BezierCircle
+    100010: BezierCurve
+    100012: //RootNode
+    100014: Camera.003
+    100016: Camera.005
+    100018: Camera.006
+    100020: Camera.010
+    100022: Cube.026
+    100024: Cube.027
+    100026: Cube.028
+    100028: Cube.029
+    100030: Cube.036
+    100032: Cube.038
+    100034: Cube.039
+    100036: Cube.042
+    100038: Cube.043
+    100040: Cube.044
+    100042: Cube.046
+    100044: Cube.048
+    100046: Cylinder.026
+    100048: Cylinder.027
+    100050: Cylinder.033
+    100052: Cylinder.034
+    100054: Icosphere
+    100056: Icosphere.001
+    100058: NurbsPath.006
+    100060: NurbsPath.008
+    100062: NurbsPath.009
+    100064: NurbsPath.010
+    100066: NurbsPath.011
+    100068: Plane.013
+    100070: Plane.014
+    100072: Plane.024
+    100074: Plane.026
+    100076: Plane.027
+    100078: Plane.028
+    100080: Plane.036
+    100082: Plane.047
+    100084: Point
+    100086: Text.001
+    100088: Text.002
+    400000: alights.000
+    400002: alights.001
+    400004: alights.014
+    400006: alights.015
+    400008: BezierCircle
+    400010: BezierCurve
+    400012: //RootNode
+    400014: Camera.003
+    400016: Camera.005
+    400018: Camera.006
+    400020: Camera.010
+    400022: Cube.026
+    400024: Cube.027
+    400026: Cube.028
+    400028: Cube.029
+    400030: Cube.036
+    400032: Cube.038
+    400034: Cube.039
+    400036: Cube.042
+    400038: Cube.043
+    400040: Cube.044
+    400042: Cube.046
+    400044: Cube.048
+    400046: Cylinder.026
+    400048: Cylinder.027
+    400050: Cylinder.033
+    400052: Cylinder.034
+    400054: Icosphere
+    400056: Icosphere.001
+    400058: NurbsPath.006
+    400060: NurbsPath.008
+    400062: NurbsPath.009
+    400064: NurbsPath.010
+    400066: NurbsPath.011
+    400068: Plane.013
+    400070: Plane.014
+    400072: Plane.024
+    400074: Plane.026
+    400076: Plane.027
+    400078: Plane.028
+    400080: Plane.036
+    400082: Plane.047
+    400084: Point
+    400086: Text.001
+    400088: Text.002
+    2000000: Camera.003
+    2000002: Camera.005
+    2000004: Camera.006
+    2000006: Camera.010
+    2100000: Studio Lights.005
+    2100002: sun
+    2100004: silver door strip.004
+    2100006: breaks_
+    2100008: red glass
+    2100010: No Name
+    2100012: Studio Lights.004
+    2100014: brake disk.004
+    2100016: rim blue.004
+    2100018: rim_silver.004
+    2100020: tyre.004
+    2100022: Nut.004
+    2100024: wheel joint.004
+    2100026: cALLIPERS.004
+    2100028: WHITE.002
+    2100030: red.002
+    2100032: GRILL.004
+    2100034: back drop.004
+    2100036: silver trim
+    2100038: black cable
+    2100040: ENGINE
+    2100042: NAVY
+    2100044: aluminiumm
+    2100046: glossy
+    2100048: white holders
+    2100050: headlight_square.004
+    2100052: headlight glass.004
+    2100054: glass front.004
+    2100056: reflective coat.004
+    2100058: Trim.004
+    2100060: BLUE.002
+    2100062: front window.004
+    2100064: black strip.004
+    2100066: black side vent
+    2100068: black vent.004
+    2100070: black fuel_tank.004
+    2100072: black
+    2100074: WHEEL CURB.004
+    2100076: Mirrors
+    2100078: exhaust
+    2300000: alights.000
+    2300002: alights.001
+    2300004: alights.014
+    2300006: alights.015
+    2300008: BezierCircle
+    2300010: BezierCurve
+    2300012: Cube.026
+    2300014: Cube.027
+    2300016: Cube.028
+    2300018: Cube.029
+    2300020: Cube.036
+    2300022: Cube.038
+    2300024: Cube.039
+    2300026: Cube.042
+    2300028: Cube.043
+    2300030: Cube.044
+    2300032: Cube.046
+    2300034: Cube.048
+    2300036: Cylinder.026
+    2300038: Cylinder.027
+    2300040: Cylinder.033
+    2300042: Cylinder.034
+    2300044: Icosphere
+    2300046: Icosphere.001
+    2300048: NurbsPath.006
+    2300050: NurbsPath.008
+    2300052: NurbsPath.009
+    2300054: NurbsPath.010
+    2300056: NurbsPath.011
+    2300058: Plane.013
+    2300060: Plane.014
+    2300062: Plane.024
+    2300064: Plane.026
+    2300066: Plane.027
+    2300068: Plane.028
+    2300070: Plane.036
+    2300072: Plane.047
+    2300074: Text.001
+    2300076: Text.002
+    3300000: alights.000
+    3300002: alights.001
+    3300004: alights.014
+    3300006: alights.015
+    3300008: BezierCircle
+    3300010: BezierCurve
+    3300012: Cube.026
+    3300014: Cube.027
+    3300016: Cube.028
+    3300018: Cube.029
+    3300020: Cube.036
+    3300022: Cube.038
+    3300024: Cube.039
+    3300026: Cube.042
+    3300028: Cube.043
+    3300030: Cube.044
+    3300032: Cube.046
+    3300034: Cube.048
+    3300036: Cylinder.026
+    3300038: Cylinder.027
+    3300040: Cylinder.033
+    3300042: Cylinder.034
+    3300044: Icosphere
+    3300046: Icosphere.001
+    3300048: NurbsPath.006
+    3300050: NurbsPath.008
+    3300052: NurbsPath.009
+    3300054: NurbsPath.010
+    3300056: NurbsPath.011
+    3300058: Plane.013
+    3300060: Plane.014
+    3300062: Plane.024
+    3300064: Plane.026
+    3300066: Plane.027
+    3300068: Plane.028
+    3300070: Plane.036
+    3300072: Plane.047
+    3300074: Text.001
+    3300076: Text.002
+    4300000: alights.014
+    4300002: alights.000
+    4300004: alights.015
+    4300006: Plane.047
+    4300008: Plane.036
+    4300010: Cube.028
+    4300012: NurbsPath.006
+    4300014: Cube.029
+    4300016: Icosphere.001
+    4300018: Cube.027
+    4300020: Plane.013
+    4300022: alights.001
+    4300024: NurbsPath.011
+    4300026: Icosphere
+    4300028: NurbsPath.010
+    4300030: BezierCircle
+    4300032: Cube.048
+    4300034: Cube.046
+    4300036: Text.001
+    4300038: Cylinder.026
+    4300040: Plane.024
+    4300042: NurbsPath.008
+    4300044: NurbsPath.009
+    4300046: Cube.036
+    4300048: Cylinder.027
+    4300050: Cube.038
+    4300052: Plane.014
+    4300054: BezierCurve
+    4300056: Cube.026
+    4300058: Text.002
+    4300060: Cube.043
+    4300062: Cylinder.034
+    4300064: Cylinder.033
+    4300066: Cube.039
+    4300068: Plane.026
+    4300070: Cube.042
+    4300072: Cube.044
+    4300074: Plane.027
+    4300076: Plane.028
+    10800000: Point
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
