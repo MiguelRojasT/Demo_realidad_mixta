@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.demo1.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\Imagine\\Documents\\Demo 1\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Demo 1 [Testing]"
+        }
+      }
+    }
+  ]
+}
